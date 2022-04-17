@@ -1,0 +1,10 @@
+{
+    "name": "Covid Information",
+    "version": "0.01",
+    "description": "Just a simple information of Covid Cases",
+      "browser_action": {
+          "default_title": "Epic Mode",
+          "default_popup": "index.html"
+      },
+    "manifest_version": 2
+  }
